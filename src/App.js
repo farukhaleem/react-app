@@ -1,9 +1,11 @@
+import Work from './work.js';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      AutoDeploy With Surge Token Added in Repository
+      <Work name={'Farhan'} name2={'Ahmad'}/>
+
     </div>
   );
 }
